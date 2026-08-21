@@ -2,6 +2,8 @@
 
 PriceX is a web-based **price comparison platform** that allows users to compare product prices across multiple shopping platforms and find the best deal.
 
+🌐 **Live Demo:** https://pricex-six.vercel.app/
+
 ### ✨ Features
 
 * 🔍 Product search
